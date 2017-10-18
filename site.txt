@@ -1,0 +1,14 @@
+https://fernando-gaitan.com.ar/aprendiendo-php-parte-1-introduccion-e-instalacion/
+https://fernando-gaitan.com.ar/php-orientado-a-objetos-parte-12-pdo-buscar-registros-en-una-base-de-datos/
+https://github.com/fernandoggaitan/pdo
+
+https://www.tutorialrepublic.com/php-tutorial/php-mysql-crud-application.php
+
+http://anexsoft.com/p/57/realizando-un-crud-listar-registrar-actualizar-eliminar-con-php
+https://www.aprenderaprogramar.com/foros/index.php?topic=881.0
+
+https://obedalvarado.pw/blog/crud-datos-empleados-php-mysql-bootstrap/
+
+http://servicio.uca.es/softwarelibre/publicaciones/apuntes_php
+https://senaintro.blackboard.com/bbcswebdav/institution/semillas/228106_2_VIRTUAL-2015/contenido/oaaps/oaap7/aa5/oa_pooen_php/pdf/oa.pdf
+
